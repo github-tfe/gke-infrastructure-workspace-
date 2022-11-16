@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"gke_cluster","Source":"../../gke-modules","Dir":"../../gke-modules"},{"Key":"gke_cluster.nginx_controller","Source":"./modules/nginx_controller","Dir":"../../gke-modules/modules/nginx_controller"},{"Key":"","Source":"","Dir":"."}]}
